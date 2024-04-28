@@ -4,6 +4,10 @@
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
+/* Selects all elements that display text content */
+body * {
+  font-family: Poppins, sans-serif;
+}
 /* Header-Styling */
 .firstsection {
   background-color: #1ac073;
